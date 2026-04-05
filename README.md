@@ -36,3 +36,5 @@ A visualization tool that performs local alignments between a user-defined full-
 ## 📊 Output Example
 - **`protein_data.tsv`**: When opened in spreadsheet software, this file functions as a powerful database that allows instant filtering of structures bound to specific ligands or in specific complex states.
 - **`sequence_coverage_map_with_seq.png`**: A publication-quality schematic that clearly illustrates the structural coverage of available PDB entries against your target protein sequence.
+
+-Japanese ver. https://qiita.com/limited3days/items/446edb3cbd3119acdb8f
